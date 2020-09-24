@@ -1,1 +1,6 @@
 # OOD_SimStation
+
+Please refer to the link below for detailed requirements and introducitons for this project.
+http://www.cs.sjsu.edu/faculty/pearce/modules/projects/ood/simStation/index.htm
+
+This is a java project involving the application of java.swing and java.awt. SimStation exemplifies the agent-based architecture . It is a framework for creating simulations. This project has six packages: four simulation packages, an mvc package (provided by our professor), a simstation package. Each simulation involves a population of agents (birds, drunks, etc.) moving around an environment and interacting with random neighbors (e.g.fighting, bargaining, mating, etc.). The SimStation window has File, Edit, and Help menu at the top. It provides buttons to start, suspend, resume, and stop the simulation. It also provides a "Stats" button to display a dialog box containing the time (in seconds) and the number of agents. All these buttons can also be found in the Edit menu. I worked with two other students, I implemented simulation plague, some parts in pdt, and some part in the SimStation package.
